@@ -25,5 +25,13 @@ Android Develop and Design sample
 以独立的Module（third-part）存放其他第三方库使用示例，每个第三方库对应一个独立的包名
 
 ## TODO
+- 调参本地web服务
 - 一些自己实现过的ui
 - 根据[hencoder](http://hencoder.com/)实现一些ui
+
+## retrofit文档地址
+- 官方英文[retrofit]("http://square.github.io/retrofit/")
+
+## Guava文档地址
+- 中文[Guava]("http://ifeve.com/google-guava/")
+- 官方英文[Guava]("https://github.com/google/guava/wiki")
