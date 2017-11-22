@@ -35,4 +35,6 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
+    // apk解析，能获取apk中基本信息
+    implementation 'net.erdfelt.android:apk-parser:1.1'
 }
