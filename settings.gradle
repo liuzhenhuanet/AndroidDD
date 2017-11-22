@@ -1,1 +1,1 @@
-include ':app', ':java', ':view', ':android', ':utils', ':third-part'
+include ':app', ':java', ':view', ':utils', ':third-part'
